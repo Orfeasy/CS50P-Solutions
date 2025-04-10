@@ -1,37 +1,35 @@
-# CS50P-Solutions
+**_\# CS50P-Solutions_**
+
 My solutions to the problem sets of Harvard's CS50P Introduction to Programming with Python
 
-⚠️ Disclaimer
+⚠️ **Disclaimer**
+
 ❗ The following materials are for educational purposes only
-❗ Using these as your own submissions violates academic integrity policies
 
+❗ Using these as your submissions violates academic integrity policies
 
-📚 Table of Contents
+📚 **Table of Contents**
 
-Week 0 – Basics of Programming
-Indoor Voice
-Playback Speed
-Making Faces
-Einstein
-Tip Calculator
+_Week 0 –  Functions, Variables_
 
-Week 1 – Conditionals and Logic
+- Indoor Voice
+- Playback Speed
+- Making Faces
+- Einstein
+- Tip Calculator
 
-Week 2 – Mastering Loops
+_Week 1 – Conditionals_
 
+_Week 2 – Loops_
 
-Week 3 – Handling Exceptions
+_Week 3 –Exceptions_
 
-Week 4 – Using Libraries
+_Week 4 – Libraries_
 
+_Week 5 – Unit Tests_
 
-Week 5 – Unit Testing & Validation
+_Week 6 –File I/O_
 
+_Week 7 – Regular Expressions_
 
-Week 6 – Working with Files
-
-
-Week 7 – Regular Expressions
-
-Week 8 – Object-Oriented Programming
-
+_Week 8 – Object-Oriented Programming_
