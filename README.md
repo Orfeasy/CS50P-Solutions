@@ -2,11 +2,12 @@
 My solutions to the problem sets of Harvard's CS50P Introduction to Programming with Python
 
 ⚠️ Disclaimer
-❗ The following materials are for educational purposes only.
-❗ Using these as your own submissions violates academic integrity policies.
-❗ Cheating not only breaks trust — it also defeats the purpose of learning how to code.
+❗ The following materials are for educational purposes only
+❗ Using these as your own submissions violates academic integrity policies
+
 
 📚 Table of Contents
+
 Week 0 – Basics of Programming
 Indoor Voice
 Playback Speed
