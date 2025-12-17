@@ -20,16 +20,63 @@ _Week 0 –  Functions, Variables_
 
 _Week 1 – Conditionals_
 
+- Deep Thought
+- Home Federal Savings Bank
+- File Extensions
+- Math Interpreter
+- Meal Time
+
 _Week 2 – Loops_
+
+- camelCase
+- Coke Machine
+- Just setting up my twttr
+- Vanity Plates
+- Nutrition Facts
 
 _Week 3 –Exceptions_
 
+- Fuel Gauge
+- Felipe’s Taqueria
+- Grocery List
+- Outdated
+
 _Week 4 – Libraries_
+
+- Emojize
+- Frank, Ian and Glen’s Letters
+- Adieu, Adieu
+- Guessing Game
+- Little Professor
+- Bitcoin Price 
 
 _Week 5 – Unit Tests_
 
+- Testing my twttr
+- Back to the Bank
+- Re-requesting a Vanity Plate
+- Refueling
+
 _Week 6 –File I/O_
 
-_Week 7 – Regular Expressions_
+- Lines of Code
+- Pizza Py
+- Scourgify
+- CS50 P-Shirt
+
+_Week 7 – Regular 
+
+- NUMB3RS
+- Watch on YouTube
+- Working 9 to 5
+- Regular, um, Expressions
+- Response Validation
 
 _Week 8 – Object-Oriented Programming_
+
+- Seasons of Love
+- Cookie Jar
+- CS50 Shirtificate
+
+_Final Project_
+
